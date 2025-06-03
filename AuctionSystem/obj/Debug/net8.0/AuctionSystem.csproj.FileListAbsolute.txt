@@ -1,0 +1,11 @@
+C:\Users\Arnaldo\Projects\AuctionSystem\AuctionSystem\bin\Debug\net8.0\AuctionSystem.deps.json
+C:\Users\Arnaldo\Projects\AuctionSystem\AuctionSystem\bin\Debug\net8.0\AuctionSystem.dll
+C:\Users\Arnaldo\Projects\AuctionSystem\AuctionSystem\bin\Debug\net8.0\AuctionSystem.pdb
+C:\Users\Arnaldo\Projects\AuctionSystem\AuctionSystem\obj\Debug\net8.0\AuctionSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnaldo\Projects\AuctionSystem\AuctionSystem\obj\Debug\net8.0\AuctionSystem.AssemblyInfoInputs.cache
+C:\Users\Arnaldo\Projects\AuctionSystem\AuctionSystem\obj\Debug\net8.0\AuctionSystem.AssemblyInfo.cs
+C:\Users\Arnaldo\Projects\AuctionSystem\AuctionSystem\obj\Debug\net8.0\AuctionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Arnaldo\Projects\AuctionSystem\AuctionSystem\obj\Debug\net8.0\AuctionSystem.dll
+C:\Users\Arnaldo\Projects\AuctionSystem\AuctionSystem\obj\Debug\net8.0\refint\AuctionSystem.dll
+C:\Users\Arnaldo\Projects\AuctionSystem\AuctionSystem\obj\Debug\net8.0\AuctionSystem.pdb
+C:\Users\Arnaldo\Projects\AuctionSystem\AuctionSystem\obj\Debug\net8.0\ref\AuctionSystem.dll
